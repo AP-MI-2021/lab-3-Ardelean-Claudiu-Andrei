@@ -111,8 +111,8 @@ def main():
     lista = []
     while True:
         print('1. Citirea listei.')
-        print('2. Determinare cea mai lungă subsecvență in care uma numerelor este număr prim.')
-        print('3. Determinare cea mai lungă subsecvență in care numărul de cifre este în ordine descrescătoare.')
+        print('2. Determinarea celei mai lungi subsecvente in care suma numerelor este numar prim.')
+        print('3. Determinarea celei mai lungi subsecvente in care numărul de cifre este în ordine descrescătoare.')
         print('4. Iesire din program - exit.')
         optiune = input('Alege optiunea: ')
         if optiune == "1":
